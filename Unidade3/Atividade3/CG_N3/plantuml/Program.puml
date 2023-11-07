@@ -1,0 +1,4 @@
+@startuml name
+class Program <<static>> {
+}
+@enduml
